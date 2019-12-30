@@ -1,3 +1,5 @@
+"use strict";
+
 console.info("Change anything here!");
 
 import "./style.css";
